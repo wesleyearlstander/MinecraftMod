@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+            { "model": "exmod:block/tutorial_block" }
+        ]
+    }
+}
